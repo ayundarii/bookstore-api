@@ -1,0 +1,5 @@
+node_modules
+migrations
+dev.db
+# Keep environment variables out of version control
+.env
